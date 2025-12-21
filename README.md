@@ -1,6 +1,44 @@
-# 💫 About Me:
-💻 AI & Cloud Enthusiast |fullstack developer Developer | Tech Explorer<br><br>I’m a passionate learner and developer who loves exploring AI, cloud computing, automation, and full-stack development. With hands-on experience across multiple technologies, I enjoy turning ideas into real solutions — from building AI-powered workflows to cloud-native apps.<br><br>I consistently upskill through top global tech programs and labs from Google, Microsoft, IBM, AWS, and more, enhancing my practical understanding through real-world projects and labs.<br><br><br>---<br><br>🚀 Tech Stack & Skills<br><br>💻 Programming Languages<br><br>Python<br><br>Java<br><br>JavaScript<br><br>HTML5 / CSS3<br><br>node.js<br><br>react.js<br><br>express.js<br><br><br>🧠 AI & Machine Learning<br><br>Generative AI<br><br>Prompt Engineering<br><br>Data Analytics & Visualization<br><br>Jupyter & Google Colab<br><br>AI Automation & Workflow Building<br><br><br>☁️ Cloud Technologies<br><br>Google Cloud Platform (GCP)<br><br>Cloud Run (Serverless)<br><br>Compute Engine<br><br>Cloud Storage<br><br>IAM, VPC, Networking Basics<br><br><br>🛠️ Tools & Platforms<br><br>Git & GitHub<br><br>VS Code<br><br>Docker basics<br><br>Linux / Shell basics<br><br>Figma (basic design)<br><br><br><br>---<br><br>🏆 Certifications & Batches Completed<br><br>🎓 Google professional cloud engineer (running course)<br><br>Generative AI 2.0 Program – Google Cloud + Google Skill<br><br>Serverless Application Development on Cloud Run (Hands-on labs)<br><br>Data Analysis & Visualization with Google Cloud Tools<br><br>Google Cloud Computing Foundations (Modules)<br><br><br>🎓 Microsoft<br><br>Microsoft Batch Winner Certificate (Cloud & Technical Training)<br><br>Azure Fundamentals (Basics)<br><br>AI and Machine Learning Fundamentals<br><br><br>🎓 IBM<br><br>Python for Data Science<br><br>Introduction to Cloud Computing<br><br>Generative AI Fundamentals<br><br><br>🎓 Other Programs<br><br>AI Video Automation & Workflow Creation<br><br>Full-Stack Web Basics (HTML, CSS, JS)<br><br>Java Programming Essentials<br><br>Various Hackathon & Project Completions<br><br><br><br>---<br><br>📚 Courses & Learning Tracks (Detailed)<br><br>🔹 Generative AI & Cloud Track<br><br>GenAI use-cases, embeddings, prompt engineering<br><br>Model fine-tuning concepts<br><br>Building data workflows using Colab & Jupyter<br><br>Cloud Run serverless deployment<br><br>Using containerized apps on GCP<br><br>Hands-on labs with launch tokens & real cloud projects<br><br><br>🔹 Web Development Track<br><br>Responsive websites: HTML5, CSS3<br><br>JavaScript DOM manipulation<br><br>API integration basics<br><br>Building small web apps and UI components<br><br><br>🔹 Programming & Software Development<br><br>Python fundamentals, OOP, automation<br><br>Java basics, DSA introduction<br><br>Git/GitHub version control workflow<br><br><br>🔹 AI Automation Track<br><br>AI-generated short-form video pipelines<br><br>Excel-based idea automation<br><br>Free AI video generation tools<br><br>Automated captioning & posting workflow<br><br>experience :<br>   Codeveda technologies:   java developer intern
 
+# About Me
+
+💻 AI & Cloud Enthusiast | Full-Stack Developer | Tech Explorer
+
+I am a passionate learner and developer with hands-on experience in AI, cloud computing, automation, and full-stack development. I enjoy transforming ideas into real-world solutions, including AI-powered workflows, cloud-native applications, and scalable backend systems.
+I continuously upskill through industry-recognized programs and labs from Google, Microsoft, IBM, and AWS, strengthening my practical understanding through real projects and hands-on labs.
+
+🚀 Tech Stack & Skills |
+💻 Programming & Web
+
+python, java, JavaScript, c |
+HTML5, CSS3 |
+Node.js, Express.js, React.js |
+springBoot, Bootstrap
+
+🧠 AI & Data
+
+Generative AI & Prompt Engineering |
+Data Analytics & Visualization |
+Jupyter Notebook, Google Colab |
+AI Automation & Workflow Building
+
+☁️ Cloud & DevOps
+
+Google Cloud Platform (GCP) |
+Cloud Run (Serverless), Compute Engine |
+Cloud Storage, IAM, Networking Basics |
+Docker (Basics)
+
+🛠️ Tools
+
+Git & GitHub |
+VS Code |
+Linux / Shell (Basics) |
+Figma (Basic UI Design)
+
+💼 Experience
+
+Java Developer Intern — Codeveda Technologies<br>
+Worked on core Java concepts, application logic, and real-world development practices.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/16kbMkDDVT/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/masumganvir18?igsh=M3Q0d3lxODE4c3I4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/masum-ganvir-358b9b337?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@masum_ganvir_06) 
@@ -13,24 +51,9 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masumganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I don’t just write code..<br>
+I teach machines to think, systems to scale, and ideas to become intelligence.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=masumganvir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
-
-<!--
-**masumganvir/masumganvir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
