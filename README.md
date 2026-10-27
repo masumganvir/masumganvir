@@ -1,7 +1,7 @@
 
 # About Me
 
-💻 AI & Cloud Enthusiast | Full-Stack Developer | Tech Explorer
+💻 Agentic AI & Machine learning | Data Scientist | Full-Stack Developer | Tech Explorer
 
 I am a passionate learner and developer with hands-on experience in AI, cloud computing, automation, and full-stack development. I enjoy transforming ideas into real-world solutions, including AI-powered workflows, cloud-native applications, and scalable backend systems.
 I continuously upskill through industry-recognized programs and labs from Google, Microsoft, IBM, and AWS, strengthening my practical understanding through real projects and hands-on labs.
